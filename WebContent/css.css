@@ -1,0 +1,41 @@
+ol.articleList{
+    list-style: none;
+    margin: 26px 18px 20px 16px;
+}
+ol.articleList li.detail{
+    margin: 0 0 20px;
+    min-height: 32px;
+    position: relative;
+}
+ol.articleList li.detail ul.article{
+    line-height: 1.4;
+    padding-left: 23px;
+    list-style: none;
+    margin: 0;
+}
+ol.articleList li.detail ul.article li.selection{
+    left: 0;
+    position: absolute;
+    margin-right: 0;
+}
+.container{
+    border: 1px solid black;
+}
+#inline ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+#inline ul li{
+    display: inline;
+    padding: 5px;
+}
+.toshow{
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+}
+.article{
+    list-style-type: none;
+}

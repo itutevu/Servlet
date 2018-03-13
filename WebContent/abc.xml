@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<CD>
+		<FULLNAME>Duc Thinh Luu</FULLNAME>
+		<EMAIL>ducthinh0610@gmail.com</EMAIL>
+		<PHONENUMBER>0988913547</PHONENUMBER>
+		<ADDRESS>District 9, HCM City, VietNam</ADDRESS>
+		<SEX>Male</SEX>
+		<BIRTHDAY>06/10/1996</BIRTHDAY>
+	</CD>
+	<CD>
+		<FULLNAME>Nguyen Quang Vu</FULLNAME>
+		<EMAIL>Quangvuit@student.hcmute.edu.vn</EMAIL>
+		<PHONENUMBER>01273194291</PHONENUMBER>
+		<ADDRESS>Thu Duc District, HCM City, VietNam</ADDRESS>
+		<SEX>Male</SEX>
+		<BIRTHDAY>12/12/1996</BIRTHDAY>
+	</CD>
+	<CD>
+		<FULLNAME>Tran Huu Dat</FULLNAME>
+		<EMAIL>14110036@student.hcmute.edu.vn</EMAIL>
+		<PHONENUMBER>0971515820</PHONENUMBER>
+		<ADDRESS>District 9, HCM City, VietNam</ADDRESS>
+		<SEX>Male</SEX>
+		<BIRTHDAY>12/04/1996</BIRTHDAY>
+	</CD>
+	<CD>
+		<FULLNAME>Richard</FULLNAME>
+		<EMAIL>Richard@gmail.com</EMAIL>
+		<PHONENUMBER>+8412395384</PHONENUMBER>
+		<ADDRESS>TaiWan-China</ADDRESS>
+		<SEX>Female</SEX>
+		<BIRTHDAY>06/10/1991</BIRTHDAY>
+	</CD>
+	<CD>
+		<FULLNAME>Kevil John</FULLNAME>
+		<EMAIL>kvJohn@gmail.com</EMAIL>
+		<PHONENUMBER>+012313578129</PHONENUMBER>
+		<ADDRESS>New York-USA</ADDRESS>
+		<SEX>Male</SEX>
+		<BIRTHDAY>12/03/1989</BIRTHDAY>
+	</CD>
+</CATALOG>
